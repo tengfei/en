@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Software
-comments: yes
 ---
 
 **First author packages**
