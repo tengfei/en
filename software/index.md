@@ -5,6 +5,7 @@ comments: yes
 ---
 
 **First author packages**
+
 - ggbio: Extending grammar of graphics for genomic data in
   R. [[homepage](http://tengfei.github.com/ggbio) | [bioconductor](http://http://www.bioconductor.org/packages/release/BiocViews.html#___Software)].
 - visnab: An Interactive Toolkit for Visualizing and Exploring Genomic Data. [[github](https://github.com/tengfei/visnab)].
@@ -14,6 +15,7 @@ comments: yes
 
 
 **Co-author/maintainer**
+
 - MutableRanges: Mutable data structures for genomic intervals.
 - objectSignals: A mutable signal object in R. [[CRAN](http://cran.r-project.org/web/packages/objectSignals/index.html) | [github](https://github.com/tengfei/objectSignals)]
 - commandr:  Command pattern in R. [[CRAN](http://cran.r-project.org/web/packages/commandr/index.html) | [github](https://github.com/tengfei/commandr)]
@@ -22,4 +24,5 @@ comments: yes
 
 
 **Involved(listed as co-author)**
+
 - cranvas: Interactive statistical graphics based on Qt. [[github](https://github.com/ggobi/cranvas)]
