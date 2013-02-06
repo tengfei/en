@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guestbook
+title: Subscribe
 ---
 
 To subscribe, simply add following feed url to your reader.
