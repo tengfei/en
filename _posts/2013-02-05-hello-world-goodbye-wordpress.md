@@ -13,11 +13,11 @@ If you expect me to say something bad about wordpress in this blog, I am sorry
 but I am going to disappoint you on this one... Wordpress is like an old and
 nice friend to me, we do have a very good relationship since 2008. It's still
 improving itself and of course, promising, full of add-ons, numerous themes, you
-can probably find anything you want with it. I have gave a shot with minimal
-theme and caching strategy like W3 super cache, better but still not fast
-enough.
+can probably find anything you want with it. 
 
-However, for me, I only need speed and information deliverable, that's it.
+However, for me, I only need speed and information deliverable, that's it. I
+have gave a shot to WP with minimal theme and caching strategy like W3 super
+cache, better but still not fast enough.
 
 Like what they say,
 > it is the last straw that break the camel's back. 
