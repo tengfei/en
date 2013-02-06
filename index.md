@@ -1,5 +1,5 @@
 ---
-title: Digital life | Tengfei Yin
+title: Digital life
 layout: page
 ---
 
