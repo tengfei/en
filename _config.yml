@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://yintengfei.name/en
+url: http://yintengfei.me/en
 author: Tengfei Yin
 pygments: true
 
